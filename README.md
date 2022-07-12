@@ -10,6 +10,12 @@
 - [Chakra UI](https://chakra-ui.com/)
 - [Storybook](https://storybook.js.org/)
 
+### Requirements
+```
+Nodejs v16.10.0
+Yarn v1.22.17
+```
+
 ### How to start
 ```
 $ yarn
