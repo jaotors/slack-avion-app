@@ -1,4 +1,4 @@
-## Slack Acion App
+## Slack Avion App
 - A practice project to learn more nextjs, typescript and chakra ui
 - also, well, Me trying TDD kekeke /heh
 
