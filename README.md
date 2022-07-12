@@ -1,8 +1,6 @@
 ## Slack Acion App
-```
 - A practice project to learn more nextjs, typescript and chakra ui
 - also, well, Me trying TDD kekeke /heh
-```
 
 ### Stack
 - [NextJS](https://nextjs.org/)
